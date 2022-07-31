@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipin S. Girjapure</h1>
+<h1 align="center">Hi 👋, I'm Vipin Girjapure</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Fullstack Development**
