@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vipingirjapure@gmail.com**
 
-- ⚡ Fun fact : **YOU are stronger than you think 👍**
+- ⚡ Fact : **YOU are stronger than you think ❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
