@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [https://vipingirjapure.github.io/MyPortfolio/](https://vipingirjapure.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://deluxe-cascaron-0664ff.netlify.app)
 
 - 📫 How to reach me **vipingirjapure@gmail.com**
 
