@@ -5,12 +5,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipingirjapure" alt="vipingirjapure" /></a> </p>
 
-<div align="center"> 
+
   <p>- 🌱 I’m currently learning **MERN Fullstack Development**</p>
   <p>- 👨‍💻 All of my projects are available at https://deluxe-cascaron-0664ff.netlify.app</p>
-  <p>- 📫 How to reach me **vipingirjapure@gmail.com**</p>
+  <p>- 📫 How to reach me **vipingirjapure@gmail.com** </p>
   <p>- ⚡ Fact : **YOU are stronger than you think ❤**</p>
-  </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -27,5 +27,5 @@
   
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
