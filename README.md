@@ -6,10 +6,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipingirjapure" alt="vipingirjapure" /></a> </p>
 
 <div align="center"> 
-  - 🌱 I’m currently learning **MERN Fullstack Development**
-  - 👨‍💻 All of my projects are available at https://deluxe-cascaron-0664ff.netlify.app
-  - 📫 How to reach me **vipingirjapure@gmail.com**
-  - ⚡ Fact : **YOU are stronger than you think ❤**
+  <p>- 🌱 I’m currently learning **MERN Fullstack Development**</p>
+  <p>- 👨‍💻 All of my projects are available at https://deluxe-cascaron-0664ff.netlify.app</p>
+  <p>- 📫 How to reach me **vipingirjapure@gmail.com**</p>
+  <p>- ⚡ Fact : **YOU are stronger than you think ❤**</p>
   </div>
 
 <h3 align="left">Connect with me:</h3>
