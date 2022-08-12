@@ -1,17 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vipin S. Girjapure</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipingirjapure&label=Profile%20views&color=0e75b6&style=flat" alt="vipingirjapure" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipingirjapure" alt="vipingirjapure" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Fullstack Development**
-
-- 👨‍💻 All of my projects are available at https://deluxe-cascaron-0664ff.netlify.app
-
-- 📫 How to reach me **vipingirjapure@gmail.com**
-
-- ⚡ Fact : **YOU are stronger than you think ❤**
+<div align="center"> 
+  - 🌱 I’m currently learning **MERN Fullstack Development**
+  - 👨‍💻 All of my projects are available at https://deluxe-cascaron-0664ff.netlify.app
+  - 📫 How to reach me **vipingirjapure@gmail.com**
+  - ⚡ Fact : **YOU are stronger than you think ❤**
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
