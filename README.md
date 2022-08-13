@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vipin S. Girjapure</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipingirjapure&label=Profile%20views&color=0e75b6&style=flat" alt="vipingirjapure" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipingirjapure&label=Profile%20views&color=0e75b6&style=flat" alt="vipingirjapure" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipingirjapure" alt="vipingirjapure" /></a> </p>
 
