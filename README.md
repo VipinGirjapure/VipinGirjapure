@@ -4,7 +4,7 @@
 I'm a passionate Frontend Developer with over 2 years of professional experience specializing in **React.js**. I love creating dynamic, responsive, and user-friendly web applications that provide seamless user experiences.
 
 ## 💻 Tech Stack
-- **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Frontend**: React.js, JavaScript (ES6+) ,Typescrpt, HTML5, CSS3,  MaterialUI 
 - **State Management**: Redux, Context API
 - **Backend (Basic)**: Node.js, Express.js
 - **Tools & Platforms**: Git, GitHub, VS Code, npm, Webpack
