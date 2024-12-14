@@ -22,7 +22,7 @@ I'm a passionate Frontend Developer with over 2 years of professional experience
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Vipin Girjapure](https://www.linkedin.com/in/vipingirjapure/)
-- **Email**: vipingirjapure@example.com
+- **Email**: vipingirjapure@gmail.com
 
 ---
 
